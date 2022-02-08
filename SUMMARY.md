@@ -9,7 +9,7 @@
   * [Page: tab](components/mypage/page-tab.md)
   * [Page: table](components/mypage/page-table.md)
   * [Page: solidv3\_dashboard\_chart](components/mypage/page-solidv3\_dashboard\_chart.md)
-  * [Page: grid\_dragdrop (draf)](components/mypage/page-grid\_dragdrop-draf.md)
+  * [Page: grid\_dragdrop (draft)](components/mypage/page-grid\_dragdrop-draft.md)
 * [MyFormControl](components/myformcontrol.md)
   * [Form: text](components/myformcontrol/form-text.md)
 * [MyTableFilter](components/mytablefilter.md)
@@ -59,3 +59,7 @@
   * [Cell](flow/v/cell.md)
   * [Table](flow/v/table/README.md)
     * [BuilCols](flow/v/table/builcols.md)
+
+## API
+
+* [Get Options](api/get-options.md)

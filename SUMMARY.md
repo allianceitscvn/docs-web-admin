@@ -1,14 +1,19 @@
 # Table of contents
 
 * [Documents](README.md)
-* [Page 1](page-1.md)
+* [Danh sách kiểu màn hình](danh-sach-kieu-man-hinh.md)
 
 ## Components
 
 * [MyPage](components/mypage/README.md)
+  * [Page: tab](components/mypage/page-tab.md)
   * [Page: table](components/mypage/page-table.md)
-* [MyFormControl](components/myformcontrol.md)
-* [MyTableFilter](components/mytablefilter.md)
+  * [Page: solidv3\_dashboard\_chart](components/mypage/page-solidv3\_dashboard\_chart.md)
+  * [Page: grid\_dragdrop (draf)](components/mypage/page-grid\_dragdrop-draf.md)
+* [MyFormControl](components/myformcontrol/README.md)
+  * [Form: text](components/myformcontrol/form-text.md)
+* [MyTableFilter](components/mytablefilter/README.md)
+  * [Filter: text](components/mytablefilter/filter-text.md)
 * [MyButton](components/mybutton/README.md)
   * [Button: action](components/mybutton/button-action.md)
   * [Button: form](components/mybutton/button-form.md)
@@ -31,6 +36,11 @@
 * [More of Cell](config/more-of-cell/README.md)
   * [more.className](config/more-of-cell/more.classname.md)
   * [more.style](config/more-of-cell/more.style.md)
+
+## Module
+
+* [Module: v1\_page](module/module-v1\_page.md)
+* [Module: v3\_page](module/module-v3\_page.md)
 
 ## Source
 

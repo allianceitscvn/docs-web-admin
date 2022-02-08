@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Documents](README.md)
-* [Danh sách kiểu màn hình](danh-sach-kieu-man-hinh.md)
+* [Danh sách kiểu màn hình](page-1.md)
 
 ## Components
 
@@ -10,9 +10,9 @@
   * [Page: table](components/mypage/page-table.md)
   * [Page: solidv3\_dashboard\_chart](components/mypage/page-solidv3\_dashboard\_chart.md)
   * [Page: grid\_dragdrop (draf)](components/mypage/page-grid\_dragdrop-draf.md)
-* [MyFormControl](components/myformcontrol/README.md)
+* [MyFormControl](components/myformcontrol.md)
   * [Form: text](components/myformcontrol/form-text.md)
-* [MyTableFilter](components/mytablefilter/README.md)
+* [MyTableFilter](components/mytablefilter.md)
   * [Filter: text](components/mytablefilter/filter-text.md)
 * [MyButton](components/mybutton/README.md)
   * [Button: action](components/mybutton/button-action.md)

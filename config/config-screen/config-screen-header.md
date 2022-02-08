@@ -1,8 +1,12 @@
 # Config Screen Header
 
+## Mô tả
+
+Cấu hình Header
+
 ## Tóm tắt
 
-```
+```json
 {
     "Header":{
         "show":true,
@@ -17,3 +21,4 @@
 | show | true         | có show header hay không |
 |      |              |                          |
 |      |              |                          |
+

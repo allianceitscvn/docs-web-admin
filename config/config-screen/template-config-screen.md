@@ -1,8 +1,8 @@
-# Config Screen Table
+# Template Config Screen
 
 ## Mô tả
 
-Cấu hình Table
+Cấu hình
 
 ## Tóm tắt
 

@@ -26,6 +26,7 @@
 ## Config
 
 * [Config Screen](config/config-screen/README.md)
+  * [Template Config Screen](config/config-screen/template-config-screen.md)
   * [Config Screen Header](config/config-screen/config-screen-header.md)
   * [Config Screen Filter](config/config-screen/config-screen-filter.md)
   * [Config Screen Page](config/config-screen/config-screen-page.md)

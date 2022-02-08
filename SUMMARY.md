@@ -62,4 +62,4 @@
 
 ## API
 
-* [Get Options](api/get-options.md)
+* [Generic API](api/generic-api.md)

@@ -8,8 +8,14 @@
 * [MyPage](components/mypage/README.md)
   * [Page: tab](components/mypage/page-tab.md)
   * [Page: table](components/mypage/page-table.md)
-  * [Page: solidv3\_dashboard\_chart](components/mypage/page-solidv3\_dashboard\_chart.md)
+  * [Page: solidv3\_dashboard](components/mypage/page-solidv3\_dashboard/README.md)
+    * [solidv3\_dashboard\_progress](components/mypage/page-solidv3\_dashboard/solidv3\_dashboard\_progress.md)
+    * [solidv3\_dashboard\_table](components/mypage/page-solidv3\_dashboard/solidv3\_dashboard\_table.md)
+    * [solidv3\_dashboard\_chart](components/mypage/page-solidv3\_dashboard/solidv3\_dashboard\_chart.md)
   * [Page: grid\_dragdrop (draft)](components/mypage/page-grid\_dragdrop-draft.md)
+* [MyTableCell](components/mytablecell/README.md)
+  * [Cell: text](components/mytablecell/cell-text.md)
+  * [Cell: textarea](components/mytablecell/cell-textarea.md)
 * [MyFormControl](components/myformcontrol.md)
   * [Form: text](components/myformcontrol/form-text.md)
 * [MyTableFilter](components/mytablefilter.md)
@@ -19,9 +25,7 @@
   * [Button: form](components/mybutton/button-form.md)
   * [Button: api](components/mybutton/button-api.md)
   * [Button: link](components/mybutton/button-link.md)
-* [MyTableCell](components/mytablecell/README.md)
-  * [Cell: text](components/mytablecell/cell-text.md)
-  * [Cell: textarea](components/mytablecell/cell-textarea.md)
+* [MyUI](components/myui.md)
 
 ## Config
 
@@ -63,3 +67,7 @@
 ## API
 
 * [Generic API](api/generic-api.md)
+
+## Others
+
+* [Modal Print Bill](others/modal-print-bill.md)

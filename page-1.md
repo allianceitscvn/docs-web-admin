@@ -20,8 +20,8 @@
 
 ## Solid
 
-{% content-ref url="components/mypage/page-solidv3_dashboard_chart.md" %}
-[page-solidv3\_dashboard\_chart.md](components/mypage/page-solidv3\_dashboard\_chart.md)
+{% content-ref url="components/mypage/page-solidv3_dashboard/" %}
+[page-solidv3\_dashboard](components/mypage/page-solidv3\_dashboard/)
 {% endcontent-ref %}
 
 ## Pos

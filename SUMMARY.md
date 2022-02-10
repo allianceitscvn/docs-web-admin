@@ -26,9 +26,11 @@
   * [Button: api](components/mybutton/button-api.md)
   * [Button: link](components/mybutton/button-link.md)
 * [MyUI](components/myui.md)
+* [MyChart](components/mychart.md)
 
 ## Config
 
+* [Config Chart of Options](config/config-chart-of-options.md)
 * [Config Screen](config/config-screen/README.md)
   * [Template Config Screen](config/config-screen/template-config-screen.md)
   * [Config Screen Header](config/config-screen/config-screen-header.md)
@@ -56,7 +58,9 @@
 ## Flow
 
 * [V](flow/v/README.md)
-  * [Api](flow/v/api.md)
+  * [Api](flow/v/api/README.md)
+    * [Api\_Generic](flow/v/api/api\_generic.md)
+    * [Api\_RefreshCache](flow/v/api/api\_refreshcache.md)
   * [FormControl](flow/v/formcontrol.md)
   * [Page](flow/v/page.md)
   * [Routes](flow/v/routes.md)

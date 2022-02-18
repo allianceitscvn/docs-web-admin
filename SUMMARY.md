@@ -56,6 +56,7 @@
 * [MApp](source/mapp/README.md)
   * [Screens](source/mapp/screens/README.md)
     * [Bill Detail](source/mapp/screens/bill-detail.md)
+    * [Dashboard](source/mapp/screens/dashboard.md)
 * [Admin V1](source/admin-v1.md)
 * [Admin V3](source/admin-v3.md)
 * [Admin V5](source/admin-v5.md)

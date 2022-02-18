@@ -40,4 +40,4 @@ description: ConfigChart được trả về trong api Options
 
 ### Cấu hình Config of ChartConfig ở ScreenConfig
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)

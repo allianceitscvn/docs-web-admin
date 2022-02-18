@@ -2,11 +2,11 @@
 
 <details>
 
-<summary>Logic khác</summary>
+<summary><mark style="color:orange;">Logic khác</mark></summary>
 
-Khi quét QR code
+<mark style="color:blue;">Khi quét QR code:</mark>&#x20;
 
-* Url: [?QRCode=695ecdc6-d31b-4609-b3f4-eb92d0082d1a](https://mpos.allianceitsc.com/#/mhome?QRCode=695ecdc6-d31b-4609-b3f4-eb92d0082d1a)
+* Url:  /mhome?QRCode=695ecdc6-d31b-4609-b3f4-eb92d0082d1a
 * Logic:&#x20;
   * Sau khi quét thì sẽ mở trang home với url như trên
   * Gọi api MyDashboard

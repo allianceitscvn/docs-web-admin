@@ -1,8 +1,10 @@
 # Bill Detail
 
+
+
 <details>
 
-<summary>Card Master</summary>
+<summary><mark style="color:green;">Card Master</mark></summary>
 
 ![](<../../../.gitbook/assets/image (1).png>)
 
@@ -17,7 +19,7 @@
          * Đỏ: **IsTransferBank = false**
        * **Transfer\_Text:** hiển thị tooltip khi nhấn vào
    * Mã đơn hàng
-     * Field: IONumber
+     * Field: **IONumber**
    * HTTT:
      * Field: **PaymentTypeDescription**
 2. Middle
@@ -27,7 +29,7 @@
 
 <details>
 
-<summary>Bottom Bar</summary>
+<summary><mark style="color:purple;">Bottom Bar</mark></summary>
 
 * Tạo bởi client
   * "Kiểm đơn"

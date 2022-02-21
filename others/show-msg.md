@@ -14,6 +14,8 @@ Show Toast lỗi màu đỏ
 
 ### Prefix Msg \[Alert]
 
+Show thông báo, muốn tắt cần tương tác của user, title mặc định là title của app, có nút OK để tắt thông báo
+
 ## Trường hợp StatusCode = 0 - Gọi Api lỗi
 
 Show Toast lỗi

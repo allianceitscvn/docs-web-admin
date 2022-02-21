@@ -1,8 +1,16 @@
 # Show Msg
 
-## Trường hợp StatusCode = 1 - Gọi Api thành công
+## Theo StatusCode
+
+### Trường hợp gọi Api thành công
 
 Show Toast thành công - xanh lá
+
+### Trường hợp gọi Api lỗi
+
+Show Toast lỗi - đỏ
+
+## Theo Prefix
 
 ### Prefix Msg \[Warning]
 
@@ -15,7 +23,3 @@ Show Toast lỗi màu đỏ
 ### Prefix Msg \[Alert]
 
 Show thông báo, muốn tắt cần tương tác của user, title mặc định là title của app, có nút OK để tắt thông báo
-
-## Trường hợp StatusCode = 0 - Gọi Api lỗi
-
-Show Toast lỗi

@@ -81,4 +81,5 @@
 
 ## Others
 
+* [Show Msg](others/show-msg.md)
 * [Modal Print Bill](others/modal-print-bill.md)

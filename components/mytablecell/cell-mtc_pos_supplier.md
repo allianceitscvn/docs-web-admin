@@ -6,12 +6,13 @@ description: Ô show vùng Khách Hàng
 
 ## Nút Customer Credit ($)
 
-### Config
+### Logic
 
-configCustomerCredit
+* Cấu hình ở: **more.mtc\_pos\_supplier**
+  * fLink: config field lấy link (có giá trị mới là link còn không thì vẫn là icon)
+  * targetLink: config window mở link (mặc định: \_blank)
 
-* fLink: config field lấy link
-* targetLink: config window mở link
+
 
 ## Nút Add WhiteList / Remove WhiteList
 
@@ -26,8 +27,13 @@ configCustomerCredit
 ## Task liên quan
 
 * [POS-3049](https://allianceitscvn.atlassian.net/browse/POS-3049)
+* [POS-3040](https://allianceitscvn.atlassian.net/browse/POS-3040)
 
 ## More
+
+mtc\_pos\_supplier
+
+* configCustomerCredit
 
 buttonAddWhiteList
 

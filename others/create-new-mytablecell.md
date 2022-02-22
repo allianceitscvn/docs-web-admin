@@ -11,7 +11,23 @@
 * [ ] Hỗ trợ cho: v1/v3/v5
 * [ ] Tạo document
 
+## Các bước thực hiện
+
+### Xác định
+
+* Tên
+* Class
+* Document
+* Có edit ko
+
+### Tạo document
+
+* Copy Check list cơ bản
+* Nhập liệu các check list cơ bản
+
+### Coding
 
 
 
+### Testing
 

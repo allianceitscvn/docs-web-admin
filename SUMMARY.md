@@ -18,6 +18,7 @@
   * [Cell: mtc\_pos\_supplier](components/mytablecell/cell-mtc\_pos\_supplier.md)
   * [Cell: text](components/mytablecell/cell-text.md)
   * [Cell: textarea](components/mytablecell/cell-textarea.md)
+  * [Cell: textarea\_with\_count](components/mytablecell/cell-textarea\_with\_count.md)
 * [MyFormControl](components/myformcontrol.md)
   * [Form: text](components/myformcontrol/form-text.md)
 * [MyTableFilter](components/mytablefilter.md)

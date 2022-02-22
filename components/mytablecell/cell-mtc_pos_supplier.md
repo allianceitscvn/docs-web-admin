@@ -4,6 +4,15 @@ description: Ô show vùng Khách Hàng
 
 # Cell: mtc\_pos\_supplier
 
+## Nút Customer Credit ($)
+
+### Config
+
+configCustomerCredit
+
+* fLink: config field lấy link
+* targetLink: config window mở link
+
 ## Nút Add WhiteList / Remove WhiteList
 
 ### Logic

@@ -9,8 +9,7 @@ description: Ô show vùng Khách Hàng
 ### Logic
 
 * Cấu hình ở: **more.mtc\_pos\_supplier**
-  * fLink: config field lấy link (có giá trị mới là link còn không thì vẫn là icon)
-  * targetLink: config window mở link (mặc định: \_blank)
+  * fLink: config field lấy link (có giá trị mới chuyển page)
 
 
 

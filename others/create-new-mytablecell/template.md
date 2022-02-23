@@ -20,9 +20,19 @@ Mô tả chi tiết
 
 ### More riêng
 
-#### more.abc
+| Key    | Default | Description                             |
+| ------ | ------- | --------------------------------------- |
+| isTest | false   | Test                                    |
+| isObj  | null    | [#ishtml](template.md#ishtml "mention") |
+|        |         |                                         |
 
-* Mô tả more.abc
+#### more.isObj
+
+| Key    | Default | Description |
+| ------ | ------- | ----------- |
+| isTest | false   | Test        |
+| isObj  | null    |             |
+|        |         |             |
 
 ### More cơ bản
 

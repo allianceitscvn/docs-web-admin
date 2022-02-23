@@ -42,10 +42,10 @@ buttonAddWhiteList
 * title
 * titleConfirm
 * confirmMsg
-* needReloadRow
 * api
   * method
   * url
+  * needReloadRow
 
 buttonRemoveWhiteList
 
@@ -54,8 +54,8 @@ buttonRemoveWhiteList
 * title
 * titleConfirm
 * confirmMsg
-* needReloadRow
 * api
   * method
   * url
+  * needReloadRow
 

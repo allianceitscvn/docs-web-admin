@@ -46,7 +46,7 @@
 * [More of Cell](config/more-of-cell/README.md)
   * [more.modal](config/more-of-cell/more.modal.md)
   * [more.className](config/more-of-cell/more.classname.md)
-  * [more.style](config/more-of-cell/more.style.md)
+  * [cell.more.style](config/more-of-cell/cell.more.style.md)
 
 ## Module
 

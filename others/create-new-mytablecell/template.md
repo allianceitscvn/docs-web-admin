@@ -40,8 +40,8 @@ Mô tả chi tiết
 [more.classname.md](../../config/more-of-cell/more.classname.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../config/more-of-cell/more.style.md" %}
-[more.style.md](../../config/more-of-cell/more.style.md)
+{% content-ref url="../../config/more-of-cell/cell.more.style.md" %}
+[cell.more.style.md](../../config/more-of-cell/cell.more.style.md)
 {% endcontent-ref %}
 
 ## Cập nhật mới

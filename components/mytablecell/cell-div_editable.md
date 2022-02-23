@@ -1,6 +1,6 @@
 # Cell: div\_editable
 
-## Check list cơ bản
+## Check list
 
 <table><thead><tr><th data-type="checkbox">Done</th><th>Check</th><th>Description</th></tr></thead><tbody><tr><td>true</td><td>Type</td><td>div_editable</td></tr><tr><td>true</td><td>Type With_MyUI</td><td>cell_div_editable</td></tr><tr><td>true</td><td>Class td>div</td><td>mct-div_editable</td></tr><tr><td>true</td><td>Nếu có edit <br>- Có kiểm tra canEdit<br>- Có chế độ readonly<br>- Cập nhật value mới khi update field khác</td><td>OK</td></tr><tr><td>true</td><td>Ngày tạo</td><td>22/2/2022</td></tr><tr><td>true</td><td>Hỗ trợ cho</td><td>v3</td></tr><tr><td>true</td><td>Link document</td><td><a href="https://allianceitsc.gitbook.io/web-admin/components/mytablecell/cell-div_editable">Link</a></td></tr></tbody></table>
 
@@ -10,7 +10,7 @@ Show như dạng textarea, có thể edit, chiều cao bằng nội dung content
 
 Hỗ trợ lưu dạng html khi bật more.isHTML = true
 
-### Hình ảnh
+## Hình ảnh
 
 #### Dạng cơ bản khi edit
 
@@ -27,8 +27,8 @@ Hỗ trợ lưu dạng html khi bật more.isHTML = true
 
 ### More cơ bản
 
-{% content-ref url="../../config/more-of-cell/more.classname.md" %}
-[more.classname.md](../../config/more-of-cell/more.classname.md)
+{% content-ref url="../../config/more-of-cell/cell.more.classname.md" %}
+[cell.more.classname.md](../../config/more-of-cell/cell.more.classname.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../config/more-of-cell/cell.more.style.md" %}

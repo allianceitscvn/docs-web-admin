@@ -1,4 +1,4 @@
-# more.style
+# cell.more.style
 
 Là object style, bổ sung style cho cell
 

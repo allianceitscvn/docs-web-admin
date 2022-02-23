@@ -44,8 +44,9 @@
 * [More of Filter](config/more-of-filter.md)
 * [More of Button](config/more-of-button.md)
 * [More of Cell](config/more-of-cell/README.md)
-  * [more.modal](config/more-of-cell/more.modal.md)
-  * [more.className](config/more-of-cell/more.classname.md)
+  * [cell.more.button](config/more-of-cell/cell.more.button.md)
+  * [cell.more.modal](config/more-of-cell/cell.more.modal.md)
+  * [cell.more.className](config/more-of-cell/cell.more.classname.md)
   * [cell.more.style](config/more-of-cell/cell.more.style.md)
 
 ## Module

@@ -1,9 +1,18 @@
 # cell.more.style
 
-Là object style, bổ sung style cho cell
+| Key   | Default | Description           |
+| ----- | ------- | --------------------- |
+| style | null    | Object style cho cell |
+|       |         |                       |
 
-VD: Gắn text màu đỏ
+## Ví dụ
+
+Gắn text màu đỏ
 
 ```json
 {"style":{"color":"red"}}
 ```
+
+## Cập nhật
+
+## Task liên quan

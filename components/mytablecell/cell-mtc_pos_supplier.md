@@ -37,5 +37,21 @@ mtc\_pos\_supplier
 
 buttonAddWhiteList
 
+* fShow
+* style
+* title
+* titleConfirm
+* confirmMsg
+* needReloadRow
+* api
+
 buttonRemoveWhiteList
+
+* fShow
+* style
+* title
+* titleConfirm
+* confirmMsg
+* needReloadRow
+* api
 

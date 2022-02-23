@@ -35,6 +35,10 @@ Hỗ trợ lưu dạng html khi bật more.isHTML = true
 [more.style.md](../../config/more-of-cell/more.style.md)
 {% endcontent-ref %}
 
-Task liên quan
+## Cập nhật
+
+* 23/2/2022: Bổ sung more.isHTML để lưu dạng html
+
+## Task liên quan
 
 * [WEBAPI-7014](https://allianceitscvn.atlassian.net/browse/WEBAPI-7014)&#x20;

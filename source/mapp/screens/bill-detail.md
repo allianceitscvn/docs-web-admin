@@ -40,7 +40,6 @@
 * Lấy từ server
   * Field: **ListButtons**
   * Logic:&#x20;
-    * Có field thì show hết các button trong field
-    * Đối với user là quản lý thì chỉ gắn các button mà client chưa có
+    * Lọc danh sách chỉ lấy button có api chứa **Bill/BillPayment\_CK** hoặc **Bill/BillPayment\_COD**
 
 </details>

@@ -1,0 +1,43 @@
+# Template
+
+## Checklist
+
+<table><thead><tr><th data-type="checkbox">Done</th><th>Check</th><th>Description</th></tr></thead><tbody><tr><td>false</td><td>Type</td><td></td></tr><tr><td>false</td><td>Type With_MyUI</td><td></td></tr><tr><td>false</td><td>Class td>div</td><td></td></tr><tr><td>false</td><td>Nếu có edit <br>- Có kiểm tra canEdit<br>- Có chế độ readonly<br>- Cập nhật value mới khi update field khác</td><td></td></tr><tr><td>false</td><td>Ngày tạo</td><td></td></tr><tr><td>false</td><td>Hỗ trợ cho</td><td></td></tr><tr><td>false</td><td>Link document</td><td><a href="https://allianceitsc.gitbook.io/web-admin/components/mytablecell/cell-div_editable">Link</a></td></tr></tbody></table>
+
+## Mô tả
+
+Mô tả cơ bản
+
+Mô tả chi tiết
+
+## Hình ảnh
+
+#### Dạng khi edit
+
+#### Dạng khi readonly
+
+## More
+
+### More riêng
+
+#### more.abc
+
+* Mô tả more.abc
+
+### More cơ bản
+
+{% content-ref url="../../config/more-of-cell/more.classname.md" %}
+[more.classname.md](../../config/more-of-cell/more.classname.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../config/more-of-cell/more.style.md" %}
+[more.style.md](../../config/more-of-cell/more.style.md)
+{% endcontent-ref %}
+
+## Cập nhật mới
+
+* 23/2/2022: Mô tả update là gì
+
+## Task liên quan
+
+* [WEBAPI-7014](https://allianceitscvn.atlassian.net/browse/WEBAPI-7014)&#x20;

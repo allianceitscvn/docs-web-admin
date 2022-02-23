@@ -83,6 +83,7 @@
 
 ## Others
 
-* [Create new MyTableCell](others/create-new-mytablecell.md)
+* [Create new MyTableCell](others/create-new-mytablecell/README.md)
+  * [Template](others/create-new-mytablecell/template.md)
 * [Show Msg](others/show-msg.md)
 * [Modal Print Bill](others/modal-print-bill.md)

@@ -76,7 +76,8 @@
   * [FormControl](flow/v/formcontrol.md)
   * [Page](flow/v/page.md)
   * [Routes](flow/v/routes.md)
-  * [Cell](flow/v/cell.md)
+  * [Cell](flow/v/cell/README.md)
+    * [V.Cell\_UpdateCell](flow/v/cell/v.cell\_updatecell.md)
   * [Table](flow/v/table/README.md)
     * [BuilCols](flow/v/table/builcols.md)
 

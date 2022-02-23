@@ -6,7 +6,7 @@
 
 ### Checklist chi tiết
 
-<table><thead><tr><th data-type="checkbox">Done</th><th>Check</th><th>Description</th></tr></thead><tbody><tr><td>false</td><td>Sử dụng renderWhenEmpty<br>- Giá trị mặc định: true/false</td><td></td></tr><tr><td>false</td><td>Sử dụng renderLoading khi update</td><td></td></tr><tr><td>false</td><td>Sử dụng tooltip</td><td></td></tr><tr><td>false</td><td>Sử dụng button</td><td></td></tr><tr><td>false</td><td>Sử dụng input</td><td></td></tr><tr><td>false</td><td>Sử dụng confirmMsg</td><td></td></tr><tr><td>false</td><td>Gọi api</td><td></td></tr></tbody></table>
+<table><thead><tr><th data-type="checkbox">Done</th><th>Check</th><th>Description</th></tr></thead><tbody><tr><td>false</td><td>Sử dụng renderWhenEmpty<br>- Giá trị mặc định: true/false</td><td></td></tr><tr><td>false</td><td>Sử dụng renderLoading khi update</td><td></td></tr><tr><td>false</td><td>Sử dụng tooltip</td><td></td></tr><tr><td>false</td><td>Sử dụng button</td><td></td></tr><tr><td>false</td><td>Sử dụng input</td><td></td></tr><tr><td>false</td><td>Sử dụng modal</td><td></td></tr><tr><td>false</td><td>Sử dụng confirmMsg</td><td></td></tr><tr><td>false</td><td>Gọi api</td><td></td></tr></tbody></table>
 
 ## Mô tả
 
@@ -54,4 +54,4 @@ Mô tả chi tiết
 
 ## Task liên quan
 
-* [WEBAPI-7014](https://allianceitscvn.atlassian.net/browse/WEBAPI-7014)&#x20;
+* Gắn link Jira liên quan

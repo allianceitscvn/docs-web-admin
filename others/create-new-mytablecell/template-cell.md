@@ -1,4 +1,4 @@
-# Template
+# Template Cell
 
 ## Checklist
 
@@ -20,11 +20,11 @@ Mô tả chi tiết
 
 ### More riêng
 
-| Key    | Default | Description                             |
-| ------ | ------- | --------------------------------------- |
-| isTest | false   | Test                                    |
-| isObj  | null    | [#ishtml](template.md#ishtml "mention") |
-|        |         |                                         |
+| Key    | Default | Description                                  |
+| ------ | ------- | -------------------------------------------- |
+| isTest | false   | Test                                         |
+| isObj  | null    | [#ishtml](template-cell.md#ishtml "mention") |
+|        |         |                                              |
 
 #### more.isObj
 

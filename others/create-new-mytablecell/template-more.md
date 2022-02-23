@@ -1,6 +1,6 @@
-# cell.more.style
+# Template more
 
-## Mô tả
+## ​Mô tả
 
 | Key   | Default | Description           |
 | ----- | ------- | --------------------- |

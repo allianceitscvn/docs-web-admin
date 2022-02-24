@@ -37,6 +37,7 @@ Hỗ trợ lưu dạng html khi bật more.isHTML = true
 
 ## Cập nhật
 
+* 24/2/2022: Fix lỗi readonly vẫn edit đc
 * 23/2/2022: Bổ sung more.isHTML để lưu dạng html
 
 ## Task liên quan

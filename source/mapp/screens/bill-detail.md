@@ -6,7 +6,7 @@
 
 <summary><mark style="color:green;">Card Master</mark></summary>
 
-![](<../../../.gitbook/assets/image (1).png>)
+![](<../../../.gitbook/assets/image (1) (1).png>)
 
 1. Header
    * Icon check

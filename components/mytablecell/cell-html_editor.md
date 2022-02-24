@@ -18,6 +18,8 @@ Show modal để edit
 
 #### Dạng khi edit
 
+![](<../../.gitbook/assets/image (1).png>)
+
 #### Dạng khi readonly
 
 ## More

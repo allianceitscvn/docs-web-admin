@@ -18,7 +18,7 @@ Show modal để edit
 
 #### Dạng khi edit
 
-![](<../../.gitbook/assets/image (1).png>)
+<img src="../../.gitbook/assets/image (1).png" alt="" data-size="original">
 
 #### Dạng khi readonly
 

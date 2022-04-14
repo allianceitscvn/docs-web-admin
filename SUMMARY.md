@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Documents](README.md)
-* [Danh sách kiểu màn hình](page-1.md)
+* [Danh sách kiểu màn hình](<page-1 (1).md>)
 
 ## Components
 
@@ -31,6 +31,15 @@
   * [Button: link](components/mybutton/button-link.md)
 * [MyUI](components/myui.md)
 * [MyChart](components/mychart.md)
+
+***
+
+* [Page 1](page-1.md)
+* [Api Logic](api-logic/README.md)
+  * [Api Cell](api-logic/api-cell.md)
+  * [List](api-logic/list.md)
+  * [UpdateFields](api-logic/updatefields.md)
+  * [Api Button](api-logic/api-button.md)
 
 ## Config
 

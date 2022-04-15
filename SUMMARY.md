@@ -36,6 +36,7 @@
 
 * [Page 1](page-1.md)
 * [Api Logic](api-logic/README.md)
+  * [FilterQuery](api-logic/filterquery.md)
   * [Api Cell](api-logic/api-cell.md)
   * [List](api-logic/list.md)
   * [UpdateFields](api-logic/updatefields.md)

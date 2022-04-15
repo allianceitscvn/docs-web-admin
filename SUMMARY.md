@@ -14,6 +14,7 @@
     * [solidv3\_dashboard\_chart](components/mypage/page-solidv3\_dashboard/solidv3\_dashboard\_chart.md)
   * [Page: grid\_dragdrop (draft)](components/mypage/page-grid\_dragdrop-draft.md)
 * [MyTableCell](components/mytablecell/README.md)
+  * [Cell: readonly\_html](components/mytablecell/cell-readonly\_html.md)
   * [Cell: html\_editor](components/mytablecell/cell-html\_editor.md)
   * [Cell: div\_editable](components/mytablecell/cell-div\_editable.md)
   * [Cell: mtc\_pos\_supplier](components/mytablecell/cell-mtc\_pos\_supplier.md)

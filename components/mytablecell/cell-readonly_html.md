@@ -48,7 +48,7 @@ Mô tả chi tiết
 
 ## Cập nhật mới
 
-* 23/2/2022: Mô tả update là gì
+*
 
 ## Task liên quan
 

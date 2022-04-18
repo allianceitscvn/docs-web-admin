@@ -33,16 +33,6 @@
 * [MyUI](components/myui.md)
 * [MyChart](components/mychart.md)
 
-***
-
-* [Page 1](page-1.md)
-* [Api Logic](api-logic/README.md)
-  * [FilterQuery](api-logic/filterquery.md)
-  * [Api Cell](api-logic/api-cell.md)
-  * [List](api-logic/list.md)
-  * [UpdateFields](api-logic/updatefields.md)
-  * [Api Button](api-logic/api-button.md)
-
 ## Config
 
 * [Config Chart of Options](config/config-chart-of-options.md)
@@ -97,6 +87,24 @@
 ## API
 
 * [Generic API](api/generic-api.md)
+
+## Logic
+
+* [Api Logic](logic/api-logic/README.md)
+  * [Api/List](logic/api-logic/api-list.md)
+  * [Api/Options](logic/api-logic/api-options.md)
+  * [Api/UpdateFields](logic/api-logic/api-updatefields.md)
+  * [Api Cell](logic/api-logic/api-cell.md)
+  * [Api Button](logic/api-logic/api-button.md)
+* [Shared Params](logic/shared-params/README.md)
+  * [AppName](logic/shared-params/appname.md)
+  * [DocumentWidth](logic/shared-params/documentwidth.md)
+  * [Url](logic/shared-params/url.md)
+  * [UI\_StartAt](logic/shared-params/ui\_startat.md)
+* [Params](logic/params/README.md)
+  * [RequestData](logic/params/requestdata.md)
+  * [ScreenGUID](logic/params/screenguid.md)
+  * [FilterQuery](logic/params/filterquery.md)
 
 ## Others
 

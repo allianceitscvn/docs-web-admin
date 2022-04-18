@@ -105,6 +105,7 @@
   * [RequestData](logic/api-params/requestdata.md)
   * [ScreenGUID](logic/api-params/screenguid.md)
   * [FilterQuery](logic/api-params/filterquery.md)
+  * [SortQuery](logic/api-params/sortquery.md)
   * [ProjectId](logic/api-params/projectid.md)
 
 ## Others

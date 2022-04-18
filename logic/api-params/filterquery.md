@@ -6,8 +6,8 @@ Truyền lên Query của client
 
 ## Áp dụng
 
-{% content-ref url="../api-logic/api-list.md" %}
-[api-list.md](../api-logic/api-list.md)
+{% content-ref url="../../api-logic/list.md" %}
+[list.md](../../api-logic/list.md)
 {% endcontent-ref %}
 
 {% content-ref url="../api-logic/api-options.md" %}

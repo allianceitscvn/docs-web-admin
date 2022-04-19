@@ -110,6 +110,10 @@
 * [UI Fields](logic/ui-fields/README.md)
   * [UI\_NeedUpdate](logic/ui-fields/ui\_needupdate.md)
   * [UI\_StyleRow](logic/ui-fields/ui\_stylerow.md)
+  * [UI\_CellType\_\[Field\]](logic/ui-fields/ui\_celltype\_-field.md)
+  * [UI\_CellType](logic/ui-fields/ui\_celltype.md)
+  * [UI\_CellMore](logic/ui-fields/ui\_cellmore.md)
+  * [UI\_MergeRowByField](logic/ui-fields/ui\_mergerowbyfield.md)
 
 ## Others
 

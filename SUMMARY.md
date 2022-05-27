@@ -95,6 +95,7 @@
 
 ## Logic
 
+* [HomeURL](logic/homeurl.md)
 * [Api Logic](api-logic/README.md)
   * [Api/List](api-logic/list.md)
   * [Api/Options](logic/api-logic/api-options.md)
@@ -119,6 +120,7 @@
   * [UI\_CellType](logic/ui-fields/ui\_celltype.md)
   * [UI\_CellMore](logic/ui-fields/ui\_cellmore.md)
   * [UI\_MergeRowByField](logic/ui-fields/ui\_mergerowbyfield.md)
+* [Table with paging server](logic/table-with-paging-server.md)
 
 ## Others
 

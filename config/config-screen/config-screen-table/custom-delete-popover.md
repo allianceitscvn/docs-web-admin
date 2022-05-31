@@ -1,17 +1,23 @@
 # Custom delete popover
 
-Custom delete title
+## Config Screen Config
 
 ```javascript
 {
     "Table":{
-        "deleteTitle":"Delete item?"
+        "deleteTitle":"Delete item?",
+        "deleteContent":"Delete item [Id]?",
+        "deleteContentHtml":"Delete item [Id]?"
     }
 }
 ```
 
-Custom delete content
+## Configs
 
+* deleteTitle: change the title of popover
+* deleteContent:
+* deleteContentHtml: change content with HTML support
 
+## Examples
 
-Custom delete content with HTML support
+&#x20;

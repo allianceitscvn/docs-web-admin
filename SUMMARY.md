@@ -46,7 +46,7 @@
   * [Config Screen Header](config/config-screen/config-screen-header.md)
   * [Config Screen Filter](config/config-screen/config-screen-filter.md)
   * [Config Screen Page](config/config-screen/config-screen-page.md)
-  * [Config Screen Table](config/config-screen/config-screen-table/README.md)
+  * [Config Screen Table](config/config-screen/config-screen-table.md)
     * [Custom delete popover](config/config-screen/config-screen-table/custom-delete-popover.md)
 * [More of Form Control](config/more-of-form-control.md)
 * [More of Filter](config/more-of-filter/README.md)

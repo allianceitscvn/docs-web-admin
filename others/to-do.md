@@ -19,7 +19,7 @@
 
 ## Custom detele with delete note
 
-* v1
+* v1: Done (07/06/22)
 * v3
 * v5: Done (07/06/22)
 * jira: [https://allianceitscvn.atlassian.net/browse/POS-2615](https://allianceitscvn.atlassian.net/browse/POS-2615)
@@ -35,10 +35,15 @@
 
 ## Click input select all text
 
-* v1:&#x20;
+* v1: Test with currency(7/6/22)
 * v3:&#x20;
 * v5: Test with textarea (7/6/22)
 * jira: [https://allianceitscvn.atlassian.net/browse/POS-1972](https://allianceitscvn.atlassian.net/browse/POS-1972)
 * doc: [cell.more.clicktoselect.md](../config/more-of-cell/cell.more.clicktoselect.md "mention")
 
-zz
+## Custom Button from Screen Config
+
+* v1: Done
+* v3
+* v5:&#x20;
+* doc: [custom-buttons-from-screen-config.md](../config/config-screen/config-screen-header/custom-buttons-from-screen-config.md "mention")

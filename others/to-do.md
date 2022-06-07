@@ -6,7 +6,7 @@
 
 * v1
 * v3
-* v5
+* v5: Done (07/06/22)
 * doc: [custom-delete-popover.md](../config/config-screen/config-screen-table/custom-delete-popover.md "mention")
 
 ## Group buttons header
@@ -21,7 +21,7 @@
 
 * v1
 * v3
-* v5
+* v5: Done (07/06/22)
 * jira: [https://allianceitscvn.atlassian.net/browse/POS-2615](https://allianceitscvn.atlassian.net/browse/POS-2615)
 * doc: [custom-delete-popover.md](../config/config-screen/config-screen-table/custom-delete-popover.md "mention")
 

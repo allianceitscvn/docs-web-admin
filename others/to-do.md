@@ -47,3 +47,13 @@
 * v3
 * v5:&#x20;
 * doc: [custom-buttons-from-screen-config.md](../config/config-screen/config-screen-header/custom-buttons-from-screen-config.md "mention")
+
+## Print html string with global iframe
+
+* v1: Testing
+* v3:
+* v5:
+* doc:
+
+
+

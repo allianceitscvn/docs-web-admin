@@ -4,7 +4,7 @@
 
 ## Custom delete title, msg, msg html
 
-* v1
+* v1: Done
 * v3
 * v5: Done (07/06/22)
 * doc: [custom-delete-popover.md](../config/config-screen/config-screen-table/custom-delete-popover.md "mention")
@@ -53,7 +53,7 @@
 * v1: Testing
 * v3:
 * v5:
-* doc:
+* doc: [flowprinthtml.md](../flow/v/utils/flowprinthtml.md "mention")
 
 
 

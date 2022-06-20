@@ -14,7 +14,7 @@ Hỗ trợ lưu dạng html khi bật more.isHTML = true
 
 #### Dạng cơ bản khi edit
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ## More
 

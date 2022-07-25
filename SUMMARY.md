@@ -131,6 +131,7 @@
 
 ## Others
 
+* [Jenkins Gitlab](others/jenkins-gitlab.md)
 * [Jenkins Pipeline](others/jenkins-pipeline.md)
 * [Web Push](others/web-push.md)
 * [Hướng dẫn tạo SSH key bằng PuTTYgen](others/huong-dan-tao-ssh-key-bang-puttygen.md)

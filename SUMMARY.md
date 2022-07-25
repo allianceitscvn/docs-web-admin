@@ -131,6 +131,7 @@
 
 ## Others
 
+* [Jenkins Pipeline](others/jenkins-pipeline.md)
 * [Web Push](others/web-push.md)
 * [Hướng dẫn tạo SSH key bằng PuTTYgen](others/huong-dan-tao-ssh-key-bang-puttygen.md)
 * [Create new MyTableCell](others/create-new-mytablecell/README.md)

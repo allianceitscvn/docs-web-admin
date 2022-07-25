@@ -4,6 +4,7 @@
 
 * Chose type of trigger in Jenkins
 * Create web hook trigger  in Gitlab
+* Open port/add whitelist connection from gitlab to jenkins
 
 ## Jenkins - build trigger
 

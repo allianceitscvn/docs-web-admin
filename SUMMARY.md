@@ -41,7 +41,8 @@
   * [Button: api](components/mybutton/button-api.md)
   * [Button: link](components/mybutton/button-link.md)
 * [MyUI](components/myui.md)
-* [MyChart](components/mychart.md)
+* [MyChart](components/mychart/README.md)
+  * [Chart: milestone](components/mychart/chart-milestone.md)
 
 ## Config
 
@@ -58,6 +59,8 @@
 * [More of Filter](config/more-of-filter/README.md)
   * [filter.more.configSearch](config/more-of-filter/filter.more.configsearch.md)
 * [More of Button](config/more-of-button.md)
+* [More of Chart](config/more-of-chart/README.md)
+  * [chart.more.showLegend](config/more-of-chart/chart.more.showlegend.md)
 * [More of Cell](config/more-of-cell/README.md)
   * [cell.more.clickToSelect](config/more-of-cell/cell.more.clicktoselect.md)
   * [cell.more.hideWhenEmpty](config/more-of-cell/cell.more.hidewhenempty.md)

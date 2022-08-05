@@ -2,9 +2,10 @@
 
 Sử dụng các cấu hình more:
 
-showLegend: Show ghi chú hay không
-
-showTextVertical: Có show text của các node hay không
-
-hideTimeTick: Có show các minorTimeTick hay không
-
+```json
+{
+    "showLegend":true,//Show ghi chú hay không
+    "showTextVertical":true,//Có show text của các node hay không
+    "hideTimeTick":true,// Có show các minorTimeTick hay không
+}
+```

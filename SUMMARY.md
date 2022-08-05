@@ -41,7 +41,7 @@
   * [Button: api](components/mybutton/button-api.md)
   * [Button: link](components/mybutton/button-link.md)
 * [MyUI](components/myui.md)
-* [MyChart](components/mychart/README.md)
+* [MyChart](components/mychart.md)
   * [Chart: milestone](components/mychart/chart-milestone.md)
 
 ## Config
@@ -137,6 +137,8 @@
 
 ## Others
 
+* [Login Social](others/login-social/README.md)
+  * [Login Social: Google](others/login-social/login-social-google.md)
 * [Jenkins Gitlab](others/jenkins-gitlab.md)
 * [Jenkins Pipeline](others/jenkins-pipeline.md)
 * [Web Push](others/web-push.md)

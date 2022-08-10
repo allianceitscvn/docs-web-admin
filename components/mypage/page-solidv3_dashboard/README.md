@@ -4,4 +4,4 @@ Kiểu dashboard, mỗi item là 1 Page Content, được render theo MyUI, truy
 
 VD:
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (6).png>)

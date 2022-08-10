@@ -29,6 +29,7 @@
   * [Cell: textarea\_with\_count](components/mytablecell/cell-textarea\_with\_count.md)
 * [MyTableHeader](components/mytableheader/README.md)
   * [MyTableHeader: styled](components/mytableheader/mytableheader-styled.md)
+  * [MyTableHeader: html](components/mytableheader/mytableheader-html.md)
   * [MyTableHeader: tooltip](components/mytableheader/mytableheader-tooltip.md)
 * [MyFormControl](components/myformcontrol.md)
   * [Form: text](components/myformcontrol/form-text.md)

@@ -1,6 +1,6 @@
 # MyTableHeader: styled
 
-### Example 1
+### Example
 
 #### Config
 

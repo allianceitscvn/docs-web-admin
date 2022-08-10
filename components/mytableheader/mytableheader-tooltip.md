@@ -14,4 +14,4 @@ tooltip_html:
 
 #### Photo
 
-![](../../.gitbook/assets/MTHtooltip.png)
+![](../../.gitbook/assets/MTHtooltip2.png)

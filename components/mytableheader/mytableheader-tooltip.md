@@ -1,9 +1,9 @@
 # MyTableHeader: tooltip
 
 ### Example
-#type:
-#style:
-#html:
+type: \n
+style: \n
+html: \n
 #### Config
 
 ```json

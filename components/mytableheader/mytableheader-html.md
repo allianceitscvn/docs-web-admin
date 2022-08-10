@@ -10,4 +10,4 @@
 
 #### Photo
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/screenshot_1660123598.png)

@@ -12,7 +12,7 @@ Check Authorized JavaScript origins and Authorized redirect URIs
 
 Get Client Id to config in website
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ## Config in config website
 

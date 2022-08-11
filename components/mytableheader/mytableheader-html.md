@@ -18,6 +18,6 @@
 }
 ```
 
-#### Photo
+#### Preview
 
 ![](../../.gitbook/assets/MTHhtml.png)

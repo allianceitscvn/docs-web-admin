@@ -1,11 +1,13 @@
 # MyTableHeader: tooltip
 
 ### Example
-type:  
-style:  
-header:  
-tooltip:  
-tooltip_html:  
+| Key         | Type       | Description        |
+| ----------- | ---------- | -----------        |
+| type        | string     |                    |
+| style       | json style | for table header   |
+| header      | string     | for table header   |
+| tooltip     | string     | for content tooltip|
+| tooltip_html| string     | for tooltip        |
 #### Config
 
 ```json

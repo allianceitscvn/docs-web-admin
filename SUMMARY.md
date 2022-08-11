@@ -114,6 +114,7 @@
 
 ## API
 
+* [Api for Admin](api/api-for-admin.md)
 * [Generic API](api/generic-api.md)
 
 ## Logic

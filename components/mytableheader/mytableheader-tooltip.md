@@ -22,6 +22,6 @@
 }
 ```
 
-#### Photo
+#### Preview
 
 ![](../../.gitbook/assets/MTHtooltip2.png)

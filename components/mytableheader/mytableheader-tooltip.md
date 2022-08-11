@@ -6,8 +6,7 @@
 | type        | string     |                    |
 | style       | json style | for table header   |
 | header      | string     | for table header   |
-| tooltip     | string     | for content tooltip|
-                           | abc                |
+| tooltip     | string     | for content tooltip  ab|
 | tooltip_html| string     | for tooltip        |
 #### Config
 

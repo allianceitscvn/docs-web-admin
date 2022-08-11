@@ -15,3 +15,9 @@ hello
 {% endtabs %}
 
 Demo
+
+| Key | Default | Description |
+| --- | ------- | ----------- |
+|     |         |             |
+|     |         |             |
+|     |         |             |

@@ -2,9 +2,11 @@
 
 ## Config
 
-* type
-* header
-* style
+| Key    | Type       | Description |
+| ------ | ---------- | ----------- |
+| type   | string     |             |
+| header | string     |             |
+| style  | json style |             |
 
 ### Example
 

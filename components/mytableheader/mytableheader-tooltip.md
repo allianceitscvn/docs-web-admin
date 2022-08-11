@@ -6,7 +6,8 @@
 | type        | string     |                    |
 | style       | json style | for table header   |
 | header      | string     | for table header   |
-| tooltip     | string     | for content tooltip  ab|
+| tooltip     | string     | for content tooltip  
+and if have tooltip_html then get tooltip html unless get tooltip|
 | tooltip_html| string     | for tooltip        |
 #### Config
 

@@ -76,6 +76,7 @@
   * [cell.more.button](config/more-of-cell/cell.more.button.md)
   * [cell.more.modal](config/more-of-cell/cell.more.modal.md)
   * [cell.more.className](config/more-of-cell/cell.more.classname.md)
+  * [cell.more.configDisplay](config/more-of-cell/cell.more.configdisplay.md)
   * [cell.more.style](config/more-of-cell/cell.more.style.md)
 
 ## Module

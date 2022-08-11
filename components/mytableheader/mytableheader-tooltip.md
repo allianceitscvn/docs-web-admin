@@ -23,5 +23,8 @@
 ```
 
 #### Preview
-
+tooltip_html  
 ![](../../.gitbook/assets/MTHtooltip2.png)
+
+tooltip  
+![](../../.gitbook/assets/mth_tooltip.png)

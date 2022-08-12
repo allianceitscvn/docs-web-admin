@@ -1,3 +1,3 @@
-# filter.more.fQueryEnd
+# filter.more.fQueryStart
 
-Default: ToDate
+Default: FromDate

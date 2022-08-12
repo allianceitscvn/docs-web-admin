@@ -1,3 +1,3 @@
-# filter.more.singleDatePicker
+# filter.more.fQueryEnd
 
 Default: ToDate

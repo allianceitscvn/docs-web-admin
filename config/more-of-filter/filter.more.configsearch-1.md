@@ -1,3 +1,2 @@
-# filter.more.fQueryStart
+# filter.more.isServer
 
-Default: FromDate

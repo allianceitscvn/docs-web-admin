@@ -1,3 +1,3 @@
-# filter.more.moreDateRangePicker
+# filter.more.showRanges
 
 Default: ToDate

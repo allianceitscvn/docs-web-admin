@@ -150,27 +150,19 @@
 
 {% swagger-response status="200: OK" description="" %}
 <pre class="language-javascript"><code class="lang-javascript">{
-   Data: {
-      DocumentWidth: 0,
-      IM_CreatedBy: null,
-      IM_CreatedDate: null,
-      IM_UpdatedBy: null,
-      IM_UpdatedDate: null,
-      Id: null,
-      IsNeedChangePassword: false,
-      LastDayUpdatePassword: null,
-      Msg: null,
-      UI_StartAt: null,
-      Url: null,
-      UserId: null,
-   }
-   EndTime: 1658106662647.8853,
-   ExtraData: null,
-   Msg: "",
-   MsgShowInUI: null,
-   StartTime: 1658106662646.6348,
-   StatusCode: 1,
-   TotalMili: 1.25048828125,
+   Data: [
+    {
+        APIName: "UserAccount",  ,  
+        Config: null,  
+        Id: "a25607e3-11ad-4156-b25d-52a0bbbf9d72",  
+        RequestData: null,  
+        ScreenCode: "DM_USER_ACCOUNT",  
+        Title: "Account Login",  
+        Type: "SIDE_MENU",  
+        UIType: null,  
+        UIUrl: "/config-account-login"
+     } 
+   ]
 }
 </code></pre>
 {% endswagger-response %}

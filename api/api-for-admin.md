@@ -66,23 +66,24 @@
       access_token: "eyJhbGciOiJIUzI1NiIsInR5cC…”,
       appLogo_background: "",
       appLogo_url:",
-      app_menu: "[{\"NewWindow\":true,\"FilterString\":\"my screen\",\"Children\":null,\"OrderNo\":0,\"Name\":\"My            Screen\",\"Code\":\"DM_SCREEN_4_MOBILE\",\"Url\":\"/config-screen-4-mobile\"}]",
-avatar_url: "",
-configs: "{\"home_url\":\"/pos-bill\"}",
-expires_in: 1689642662000,
-fa2_method: "",
-fa2_needenable: false,
-fa2_needverify: false,
-fa2_token: null,
-name: "Dung Bui Test",
-project_screens: "[]",
-project_screens_inactive: "[]",
-token_type: "Bearer",
-user_id: "5",
-user_mobile: "",
-user_name: "dung.buiminh@allianceitsc.com",
-user_type: "",
-user_uniqueid: "14bc716d-1f79-4857-9ed5-ae74c842ddce"
+      app_menu: "[{\"NewWindow\":true,\"FilterString\":\"my screen\",\"Children\":null,\"OrderNo\":0,\"Name\":\"My                Screen\",\"Code\":\"DM_SCREEN_4_MOBILE\",\"Url\":\"/config-screen-4-mobile\"}]",
+      avatar_url: "",
+      configs: "{\"home_url\":\"/pos-bill\"}",
+      expires_in: 1689642662000,
+      fa2_method: "",
+      fa2_needenable: false,
+      fa2_needverify: false,
+      fa2_token: null,
+      name: "Dung Bui Test",
+      project_screens: "[]",
+      project_screens_inactive: "[]",
+      token_type: "Bearer",
+      user_id: "5",
+      user_mobile: "",
+      user_name: "dung.buiminh@allianceitsc.com",
+      user_type: "",
+      user_uniqueid: "14bc716d-1f79-4857-9ed5-ae74c842ddce"
+    }
 }
 </code></pre>
 {% endswagger-response %}
@@ -106,7 +107,6 @@ user_uniqueid: "14bc716d-1f79-4857-9ed5-ae74c842ddce"
 
 {% swagger-response status="200: OK" description="" %}
 <pre class="language-javascript"><code class="lang-javascript">{
-    {
    Data: {
       DocumentWidth: 0,
       IM_CreatedBy: null,
@@ -129,7 +129,6 @@ user_uniqueid: "14bc716d-1f79-4857-9ed5-ae74c842ddce"
    StatusCode: 1,
    TotalMili: 1.25048828125,
 }
-
 </code></pre>
 {% endswagger-response %}
 {% endswagger %}  

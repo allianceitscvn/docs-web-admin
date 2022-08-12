@@ -56,7 +56,7 @@
     "grant_type": "password",  
     "username": "dung.buiminh@allianceitsc.com",  
     "password": "123$56",  
-    "app_name": "alliancedev",  
+    "app_name": "alliancedev"  
 }  
 {% endswagger-parameter %}
 
@@ -100,7 +100,7 @@
     "AppName": "alliancedev",  
     "DocumentWidth": 1920,  
     "UI_StartAt": 1658104808541,  
-    Url: "https://pos.allianceitsc.com/#/login"  
+    "Url": "https://pos.allianceitsc.com/#/login"  
 }
 
 {% endswagger-parameter %}
@@ -139,10 +139,10 @@
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
-{
-    "AppName": "alliancedev",
-    "DocumentWidth": 1920,
-    "UI_StartAt": 1658106663089,
+{  
+    "AppName": "alliancedev",  
+    "DocumentWidth": 1920,  
+    "UI_StartAt": 1658106663089,  
     "Url": "https://pos.allianceitsc.com/#/welcome"
 }
 

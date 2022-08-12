@@ -170,7 +170,7 @@
 <pre class="language-javascript"><code class="lang-javascript">{
    Data: [
     {
-        APIName: "UserAccount",  ,  
+        APIName: "UserAccount",    
         Config: null,  
         Id: "a25607e3-11ad-4156-b25d-52a0bbbf9d72",  
         RequestData: null,  
@@ -193,7 +193,7 @@
 
 {% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
 {  
-ScreenGUID: "07feaab5-78e8-401f-ade5-0ef3944524f3"  
+"ScreenGUID": "07feaab5-78e8-401f-ade5-0ef3944524f3"  
 }
 
 {% endswagger-parameter %}

@@ -2,11 +2,17 @@
 
 ## Description
 
-
+Chọn item từ danh sách đc hiển thị trong modal
 
 ## Config More
 
+{% content-ref url="../../config/more-of-cell/cell.more.style-1.md" %}
+[cell.more.style-1.md](../../config/more-of-cell/cell.more.style-1.md)
+{% endcontent-ref %}
 
+{% content-ref url="../../config/more-of-cell/cell.more.style-2.md" %}
+[cell.more.style-2.md](../../config/more-of-cell/cell.more.style-2.md)
+{% endcontent-ref %}
 
 ## Update
 

@@ -25,10 +25,10 @@
   * [Cell: select2\_modal](components/mytablecell/cell-json\_editor.js-1.md)
   * [Cell: json\_editor\_value](components/mytablecell/cell-json\_editor\_value.md)
   * [Cell: readonly\_html](components/mytablecell/cell-readonly\_html.md)
-  * [Cell: readonly\_date](components/mytablecell/cell-textarea.md)
+  * [Cell: readonly\_date](<components/mytablecell/cell-textarea (1).md>)
   * [Cell: readonly\_datetime](components/mytablecell/cell-textarea-1.md)
   * [Cell: text](components/mytablecell/cell-text.md)
-  * [Cell: textarea](<components/mytablecell/cell-textarea (1).md>)
+  * [Cell: textarea](components/mytablecell/cell-textarea.md)
   * [Cell: textarea\_with\_count](components/mytablecell/cell-textarea\_with\_count.md)
   * [Cell: BarTopRight](components/mytablecell/cell-bartopright/README.md)
     * [BarTopRight: clear](components/mytablecell/cell-bartopright/bartopright-clear.md)
@@ -90,6 +90,7 @@
   * [cell.more.configDisplay](config/more-of-cell/cell.more.configdisplay.md)
   * [cell.more.style](config/more-of-cell/cell.more.style.md)
   * [cell.more.virtualized](config/more-of-cell/cell.more.style-1.md)
+  * [cell.more.showSelectedOnFirstRow](config/more-of-cell/cell.more.style-2.md)
 
 ## Module
 

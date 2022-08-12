@@ -46,18 +46,18 @@
 {% endswagger-response %}
 {% endswagger %}  
 
-{% swagger method="post" path="/oauth2/token" baseUrl="domain" summary="Kiểm tra thông tin đăng nhập" %}
+{% swagger method="post" path="/oauth2/token" baseUrl="domain" summary="Login - Kiểm tra thông tin đăng nhập" %}
 {% swagger-description %}
 
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
-
-grant_type: 
-username: String
-password: String
-app_name: 
-
+{  
+    grant_type:  
+    username: String  
+    password: String  
+    app_name:  
+}  
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
@@ -84,8 +84,52 @@ user_name: "dung.buiminh@allianceitsc.com",
 user_type: "",
 user_uniqueid: "14bc716d-1f79-4857-9ed5-ae74c842ddce"
 }
-
-
 </code></pre>
 {% endswagger-response %}
 {% endswagger %}
+  
+  
+{% swagger method="post" path="/MyProfileUserPassword/CheckNeedChangePassword" baseUrl="domain" summary="Login - CheckNeedChangePassword" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
+{
+    AppName: "alliancedev"  
+    DocumentWidth: 1920  
+    UI_StartAt: 1658104808541  
+    Url: "https://pos.allianceitsc.com/#/login"  
+}
+
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+<pre class="language-javascript"><code class="lang-javascript">{
+    {
+   Data: {
+      DocumentWidth: 0,
+      IM_CreatedBy: null,
+      IM_CreatedDate: null,
+      IM_UpdatedBy: null,
+      IM_UpdatedDate: null,
+      Id: null,
+      IsNeedChangePassword: false,
+      LastDayUpdatePassword: null,
+      Msg: null,
+      UI_StartAt: null,
+      Url: null,
+      UserId: null,
+   }
+   EndTime: 1658106662647.8853,
+   ExtraData: null,
+   Msg: "",
+   MsgShowInUI: null,
+   StartTime: 1658106662646.6348,
+   StatusCode: 1,
+   TotalMili: 1.25048828125,
+}
+
+</code></pre>
+{% endswagger-response %}
+{% endswagger %}  

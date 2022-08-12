@@ -8,4 +8,4 @@
 | dateFormat| string     | ưu tiên dateFormat hơn format nếu không có cả 2 thì lấy mặc định |
 
 #### Preview  
-![](../.gitbook/assets/readonly_datetime.png)
+![](../../.gitbook/assets/readonly_datetime.png)

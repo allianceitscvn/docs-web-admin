@@ -53,10 +53,8 @@
 
 {% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
 {  
-    "grant_type": "password",  
     "username": "dung.buiminh@allianceitsc.com",  
-    "password": "123$56",  
-    "app_name": "alliancedev"  
+    "password": "123$56"  
 }  
 {% endswagger-parameter %}
 
@@ -96,12 +94,7 @@
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
-{  
-    "AppName": "alliancedev",  
-    "DocumentWidth": 1920,  
-    "UI_StartAt": 1658104808541,  
-    "Url": "https://pos.allianceitsc.com/#/login"  
-}
+{}
 
 {% endswagger-parameter %}
 
@@ -139,12 +132,7 @@
 {% endswagger-description %}
 
 {% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
-{  
-    "AppName": "alliancedev",  
-    "DocumentWidth": 1920,  
-    "UI_StartAt": 1658106663089,  
-    "Url": "https://pos.allianceitsc.com/#/welcome"
-}
+{}
 
 {% endswagger-parameter %}
 
@@ -163,6 +151,95 @@
         UIUrl: "/config-account-login"
      } 
    ]
+}
+</code></pre>
+{% endswagger-response %}
+{% endswagger %}  
+  
+  
+{% swagger method="post" path="ProjectScreenHeader/ProjectScreens" baseUrl="domain" summary="Lấy thông tin project screen" %}
+{% swagger-description %}
+{% endswagger-description %}
+
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
+{}
+
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+<pre class="language-javascript"><code class="lang-javascript">{
+   Data: [
+    {
+        APIName: "UserAccount",  ,  
+        Config: null,  
+        Id: "a25607e3-11ad-4156-b25d-52a0bbbf9d72",  
+        RequestData: null,  
+        ScreenCode: "DM_USER_ACCOUNT",  
+        Title: "Account Login",  
+        Type: "SIDE_MENU",  
+        UIType: null,  
+        UIUrl: "/config-account-login"
+     } 
+   ]
+}
+</code></pre>
+{% endswagger-response %}
+{% endswagger %}  
+  
+  
+{% swagger method="post" path="AppScreenUIControlSetting/Options" baseUrl="domain" summary="Lấy thông tin UIControlSetting" %}
+{% swagger-description %}
+{% endswagger-description %}
+
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
+{  
+ScreenGUID: "07feaab5-78e8-401f-ade5-0ef3944524f3"  
+}
+
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="" %}
+<pre class="language-javascript"><code class="lang-javascript">{
+   Data: {  
+        ButtonList: [],
+        ChartConfig: null,
+        Configs: {},
+        DiagramChart: null,
+        FormAddNewConfig: null,
+        HeaderConfig: {
+            Avatar: null,
+            ButtonList: [],
+            Title: null,
+        },
+        PageConfig: {  
+            APIMethod: null,
+            APIName: "AppScreenUIControlSetting",
+            Config: "",
+            ConfigsExt: null,  
+        },  
+        Contents: [
+            APIMethod: null,
+            APIName: "Bill",
+            Config: "",
+            ConfigsExt: null,
+            Contents: null,
+            Id: "ui-ctrl-290",
+            RequestData: null,
+            ScreenCode: "ALLIANCE_POS_BILL",
+            Title: "Bán hàng",
+            Type: null,
+            UIType: "Table",
+            UIUrl: null,
+        ],
+        Id: "07feaab5-78e8-401f-ade5-0ef3944524f3",
+        RequestData: null,
+        ScreenCode: "ALLIANCE_POS_BILL",
+        Title: "Bán hàng",
+        Type: "SIDE_MENU",
+        UIType: "Tab",
+        UIUrl: null,
+        Signature: null,
+    },
 }
 </code></pre>
 {% endswagger-response %}

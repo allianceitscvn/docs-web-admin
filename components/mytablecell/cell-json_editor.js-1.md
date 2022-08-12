@@ -10,8 +10,8 @@ Chọn item từ danh sách đc hiển thị trong modal
 [cell.more.style-1.md](../../config/more-of-cell/cell.more.style-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../config/more-of-cell/cell.more.style-2.md" %}
-[cell.more.style-2.md](../../config/more-of-cell/cell.more.style-2.md)
+{% content-ref url="../../config/more-of-cell/cell.more.style-4.md" %}
+[cell.more.style-4.md](../../config/more-of-cell/cell.more.style-4.md)
 {% endcontent-ref %}
 
 ## Update

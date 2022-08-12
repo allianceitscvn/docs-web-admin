@@ -90,7 +90,9 @@
   * [cell.more.configDisplay](config/more-of-cell/cell.more.configdisplay.md)
   * [cell.more.style](config/more-of-cell/cell.more.style.md)
   * [cell.more.virtualized](config/more-of-cell/cell.more.style-1.md)
-  * [cell.more.showSelectedOnFirstRow](config/more-of-cell/cell.more.style-2.md)
+  * [cell.more.format](config/more-of-cell/cell.more.style-2.md)
+  * [cell.more.dateFormat](config/more-of-cell/cell.more.style-3.md)
+  * [cell.more.showSelectedOnFirstRow](config/more-of-cell/cell.more.style-4.md)
 
 ## Module
 

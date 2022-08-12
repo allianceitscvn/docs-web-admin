@@ -1,8 +1,8 @@
-# cell.more.showSelectedOnFirstRow
+# cell.more.format
 
 ## Descriptions
 
-Có đưa item được chọn lên đầu danh sách hay không
+Format sử dụng theo tùy trường hợp
 
-* Type: boolean
-* Default Value: false
+* Type: string
+* Default Value: không có

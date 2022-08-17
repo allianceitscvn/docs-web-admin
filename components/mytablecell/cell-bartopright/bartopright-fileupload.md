@@ -15,7 +15,11 @@
 #### Config more
 ```json
 {
-  "showPreviewHTML": true
+    "configFileIcon":{
+"show":true,
+"fieldName": "Domain_Logos",
+"showBadge": true
+}
 }
 ```
 

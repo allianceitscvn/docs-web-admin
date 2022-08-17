@@ -12,7 +12,7 @@
 ```
 
 #### Preview
-![](../../../.gitbook/assets/previewHtml1.png)
+![](../../../.gitbook/assets/barTopRight_uploadFile.png)
 
 Popup preview  
-![](../../../.gitbook/assets/preivewHtml2.png)
+![](../../../.gitbook/assets/barTopRight_uploadFilePopup.png)

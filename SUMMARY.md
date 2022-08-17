@@ -35,6 +35,7 @@
     * [BarTopRight: previewHTML](components/mytablecell/cell-bartopright/bartopright-previewhtml.md)
     * [BarTopRight: deleteRow](components/mytablecell/cell-bartopright/bartopright-deleterow.md)
     * [BarTopRight: fileUpload](components/mytablecell/cell-bartopright/bartopright-fileupload.md)
+    * [BarTopRight: checkbox](components/mytablecell/cell-bartopright/bartopright-fileupload-1.md)
     * [BarTopRight: edit](components/mytablecell/cell-bartopright/bartopright-edit.md)
     * [BarTopRight: diffView](components/mytablecell/cell-bartopright/bartopright-diffview.md)
 * [MyTableHeader](components/mytableheader/README.md)
@@ -60,6 +61,8 @@
 
 ## Config
 
+* [Config Modal](config/config-modal/README.md)
+  * [modal.size](config/config-modal/modal.size.md)
 * [Config Chart of Options](config/config-chart-of-options.md)
 * [Config Screen](config/config-screen/README.md)
   * [Template Config Screen](config/config-screen/template-config-screen.md)
@@ -163,6 +166,7 @@
 
 ## Others
 
+* [CSS Selectors Cheat Sheet](others/css-selectors-cheat-sheet.md)
 * [Login Social](others/login-social/README.md)
   * [Login Social: Google](others/login-social/login-social-google.md)
 * [Jenkins Gitlab](others/jenkins-gitlab.md)

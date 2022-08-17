@@ -5,7 +5,7 @@
 | ------          | ---------- | ----------- |
 | configCheckbox  | Object     |             |
 
-#### configFileIcon
+#### configCheckbox
 | Key             | Type       | Description |
 | ------          | ---------- | ----------- |
 | show            | boolean    |             |

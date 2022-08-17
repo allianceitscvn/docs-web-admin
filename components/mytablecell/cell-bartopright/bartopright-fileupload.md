@@ -16,10 +16,10 @@
 ```json
 {
     "configFileIcon":{
-"show":true,
-"fieldName": "Domain_Logos",
-"showBadge": true
-}
+        "show":true,
+        "fieldName": "Domain_Logos",
+        "showBadge": true
+    }
 }
 ```
 

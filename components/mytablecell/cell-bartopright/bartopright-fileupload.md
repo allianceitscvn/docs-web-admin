@@ -11,6 +11,8 @@
 | show            | boolean    |             |
 | fieldName       | String     | fieldName của row |
 | showBadge       | boolean    | Hiển thị đếm file |
+| file            | object     |             |
+
 
 #### Config more
 ```json

@@ -2,5 +2,14 @@
 description: Sử dụng cho ô có show modal chính
 ---
 
-# more.modal
+# cell.more.modal
+
+## Description
+
+| Key           | Default | Description                     |
+| ------------- | ------- | ------------------------------- |
+| canShowModal  | null    | Check can show modal            |
+| fCanShowModal | null    | Check can show modal from field |
+
+## Example
 

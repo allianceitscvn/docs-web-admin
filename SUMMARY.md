@@ -96,6 +96,7 @@
   * [cell.more.format](config/more-of-cell/cell.more.style-2.md)
   * [cell.more.dateFormat](config/more-of-cell/cell.more.style-3.md)
   * [cell.more.showSelectedOnFirstRow](config/more-of-cell/cell.more.style-4.md)
+  * [cell.more.apiCheckShowModal](config/more-of-cell/cell.more.apicheckshowmodal.md)
 
 ## Module
 

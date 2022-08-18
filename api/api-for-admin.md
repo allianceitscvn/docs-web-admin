@@ -16,7 +16,7 @@
 
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" required="false" %}
 
 {% endswagger-parameter %}
 
@@ -41,25 +41,37 @@
     StartTime: 0,
     StatusCode: 1,
     TotalMili: 0,
-}
-</code></pre>
+}</code></pre>
 {% endswagger-response %}
-{% endswagger %}  
+{% endswagger %}
 
 {% swagger method="post" path="/oauth2/token" baseUrl="domain" summary="Login - Kiểm tra thông tin đăng nhập" %}
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
-{  
-    "username": "dung.buiminh@allianceitsc.com",  
-    "password": "123$56"  
-}  
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" required="false" %}
+{
+
+\
+
+
+"username": "dung.buiminh@allianceitsc.com",
+
+\
+
+
+"password": "123$56"
+
+\
+
+
+}
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
-<pre class="language-javascript"><code class="lang-javascript">{
+```javascript
+{
     Data: {
       access_token: "eyJhbGciOiJIUzI1NiIsInR5cC…”,
       appLogo_background: "",
@@ -83,23 +95,22 @@
       user_uniqueid: "14bc716d-1f79-4857-9ed5-ae74c842ddce"
     }
 }
-</code></pre>
+```
 {% endswagger-response %}
 {% endswagger %}
-  
-  
+
 {% swagger method="post" path="/MyProfileUserPassword/CheckNeedChangePassword" baseUrl="domain" summary="Login - CheckNeedChangePassword" %}
 {% swagger-description %}
 
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" required="false" %}
 {}
-
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
-<pre class="language-javascript"><code class="lang-javascript">{
+```javascript
+{
    Data: {
       DocumentWidth: 0,
       IM_CreatedBy: null,
@@ -122,22 +133,22 @@
    StatusCode: 1,
    TotalMili: 1.25048828125,
 }
-</code></pre>
+```
 {% endswagger-response %}
-{% endswagger %}  
-  
-  
+{% endswagger %}
+
 {% swagger method="post" path="/ConfigMenu/CategoryScreenList" baseUrl="domain" summary="Login - Lấy thông tin các url của ui" %}
 {% swagger-description %}
+
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" required="false" %}
 {}
-
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
-<pre class="language-javascript"><code class="lang-javascript">{
+```javascript
+{
    Data: [
     {
         APIName: "UserAccount",  ,  
@@ -152,22 +163,22 @@
      } 
    ]
 }
-</code></pre>
+```
 {% endswagger-response %}
-{% endswagger %}  
-  
-  
+{% endswagger %}
+
 {% swagger method="post" path="ProjectScreenHeader/ProjectScreens" baseUrl="domain" summary="Lấy thông tin project screen" %}
 {% swagger-description %}
+
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" required="false" %}
 {}
-
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
-<pre class="language-javascript"><code class="lang-javascript">{
+```javascript
+{
    Data: [
     {
         APIName: "UserAccount",    
@@ -182,24 +193,32 @@
      } 
    ]
 }
-</code></pre>
+```
 {% endswagger-response %}
-{% endswagger %}  
-  
-  
+{% endswagger %}
+
 {% swagger method="post" path="AppScreenUIControlSetting/Options" baseUrl="domain" summary="Lấy thông tin UIControlSetting" %}
 {% swagger-description %}
+
 {% endswagger-description %}
 
-{% swagger-parameter in="body" name="UIAppConfig" type="Json" %}
-{  
-"ScreenGUID": "07feaab5-78e8-401f-ade5-0ef3944524f3"  
-}
+{% swagger-parameter in="body" name="UIAppConfig" type="Json" required="false" %}
+{
 
+\
+
+
+"ScreenGUID": "07feaab5-78e8-401f-ade5-0ef3944524f3"
+
+\
+
+
+}
 {% endswagger-parameter %}
 
 {% swagger-response status="200: OK" description="" %}
-<pre class="language-javascript"><code class="lang-javascript">{
+```javascript
+{
    Data: {  
         ButtonList: [],
         ChartConfig: null,
@@ -241,6 +260,6 @@
         Signature: null,
     },
 }
-</code></pre>
+```
 {% endswagger-response %}
-{% endswagger %}  
+{% endswagger %}

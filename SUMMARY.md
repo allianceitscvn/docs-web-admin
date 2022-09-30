@@ -142,6 +142,7 @@
 ## Logic
 
 * [HomeURL](logic/homeurl.md)
+* [Flow filter](logic/flow-filter.md)
 * [Api Logic](api-logic/README.md)
   * [Api/List](api-logic/list.md)
   * [Api/Options](logic/api-logic/api-options.md)
@@ -170,7 +171,6 @@
 
 ## Others
 
-* [Flow filter](others/flow-filter.md)
 * [CSS Selectors Cheat Sheet](others/css-selectors-cheat-sheet.md)
 * [Login Social](others/login-social/README.md)
   * [Login Social: Google](others/login-social/login-social-google.md)

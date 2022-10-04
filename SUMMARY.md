@@ -48,6 +48,7 @@
   * [FormControl: checkbox](components/myformcontrol/form-text-2.md)
   * [FormControl: readonly](components/myformcontrol/form-text-3.md)
 * [MyTableFilter](components/mytablefilter.md)
+  * [Filter Server](components/mytablefilter/filter-server.md)
   * [Filter: select2\_modal](components/mytablefilter/filter-select2\_modal.md)
   * [Filter: text](components/mytablefilter/filter-text.md)
   * [Filter: datefromto](components/mytablefilter/filter-text-1.md)
@@ -103,6 +104,7 @@
 
 ## Module
 
+* [GTag](module/gtag.md)
 * [Module: v1\_page](module/module-v1\_page.md)
 * [Module: v3\_page](module/module-v3\_page.md)
 

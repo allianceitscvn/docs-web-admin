@@ -1,8 +1,8 @@
 ---
-description: Gắn GTag vào page
+description: Gắn GTag vào website
 ---
 
-# GTag
+# Module: gtag
 
 ## Sử dụng
 

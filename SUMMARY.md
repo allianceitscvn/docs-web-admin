@@ -65,6 +65,9 @@
 
 ## Config
 
+* [Config App](config/config-app/README.md)
+  * [ConfigApp.GTMKeyPageGlobal](config/config-app/configapp.gtmkeypageglobal.md)
+  * [ConfigApp.GAId](config/config-app/configapp.gaid.md)
 * [Config Modal](config/config-modal/README.md)
   * [modal.size](config/config-modal/modal.size.md)
 * [Config Chart of Options](config/config-chart-of-options.md)
@@ -104,7 +107,8 @@
 
 ## Module
 
-* [GTag](module/gtag.md)
+* [Module: reactga](module/module-reactga.md)
+* [Module: gtag](module/module-gtag.md)
 * [Module: v1\_page](module/module-v1\_page.md)
 * [Module: v3\_page](module/module-v3\_page.md)
 

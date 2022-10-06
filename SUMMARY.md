@@ -147,6 +147,7 @@
 
 ## Logic
 
+* [Chart in table](logic/chart-in-table.md)
 * [HomeURL](logic/homeurl.md)
 * [Flow filter](logic/flow-filter.md)
 * [Api Logic](api-logic/README.md)

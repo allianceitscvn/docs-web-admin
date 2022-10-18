@@ -178,12 +178,14 @@
 
 ## Others
 
+* [Jenkins -  CI/CD](others/jenkins-ci-cd/README.md)
+  * [Install Jenkins on Window Server](others/jenkins-ci-cd/install-jenkins-on-window-server.md)
+  * [Jenkins Gitlab](others/jenkins-ci-cd/jenkins-gitlab.md)
+  * [Jenkins Pipeline](others/jenkins-ci-cd/jenkins-pipeline.md)
 * [Send Message Goggle Chat](others/send-message-goggle-chat.md)
 * [CSS Selectors Cheat Sheet](others/css-selectors-cheat-sheet.md)
 * [Login Social](others/login-social/README.md)
   * [Login Social: Google](others/login-social/login-social-google.md)
-* [Jenkins Gitlab](others/jenkins-gitlab.md)
-* [Jenkins Pipeline](others/jenkins-pipeline.md)
 * [Web Push](others/web-push.md)
 * [Hướng dẫn tạo SSH key bằng PuTTYgen](others/huong-dan-tao-ssh-key-bang-puttygen.md)
 * [Create new MyTableCell](others/create-new-mytablecell/README.md)

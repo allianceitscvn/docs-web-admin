@@ -11,11 +11,11 @@
 
 ### Trigger builds remotely
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3).png>)
 
 ## Gitlab - create web hook
 
-![](<../.gitbook/assets/image (2) (2).png>)
+![](<../../.gitbook/assets/image (2) (2).png>)
 
 ## Whitelist gitlab
 

@@ -178,6 +178,8 @@
 
 ## Others
 
+* [Google Service](others/google-service/README.md)
+  * [Google Auto Complete Place](others/google-service/google-auto-complete-place.md)
 * [Jenkins -  CI/CD](others/jenkins-ci-cd/README.md)
   * [Install Jenkins on Window Server](others/jenkins-ci-cd/install-jenkins-on-window-server.md)
   * [Jenkins Gitlab](others/jenkins-ci-cd/jenkins-gitlab.md)

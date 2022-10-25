@@ -1,6 +1,6 @@
 # Google Auto Complete Place
 
-## Bật sử dụng tính API Place
+## Bật sử dụng API AutoComplete Place
 
 * Vào trang https://console.cloud.google.com/google/maps-apis/api-list?referrer=search\&project=projectname
   * Bật Maps JavaScript API

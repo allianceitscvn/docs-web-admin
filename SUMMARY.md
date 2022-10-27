@@ -178,6 +178,7 @@
 
 ## Others
 
+* [Sử dụng ResizeObserver](others/su-dung-resizeobserver.md)
 * [Google Service](others/google-service/README.md)
   * [Google Auto Complete Place](others/google-service/google-auto-complete-place.md)
 * [Jenkins -  CI/CD](others/jenkins-ci-cd/README.md)

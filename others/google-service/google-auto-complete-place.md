@@ -5,6 +5,8 @@
 * Vào trang https://console.cloud.google.com/google/maps-apis/api-list?referrer=search\&project=projectname
   * Bật Maps JavaScript API
   * Bật Places API
+  * Bật Geocoding API:&#x20;
+    * Để lấy thêm thông tin từ placeId
 * Vào trang quản lý API: https://console.cloud.google.com/apis/credentials?project=projectname
   * Config OAuth consent screen nếu chưa đc config bao giờ
   * Create new credentials: API Key

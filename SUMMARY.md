@@ -180,6 +180,7 @@
 
 * [Sử dụng ResizeObserver](others/su-dung-resizeobserver.md)
 * [Google Service](others/google-service/README.md)
+  * [Cài đặt window server](others/google-service/cai-dat-window-server.md)
   * [Google Auto Complete Place](others/google-service/google-auto-complete-place.md)
 * [Jenkins -  CI/CD](others/jenkins-ci-cd/README.md)
   * [Install Jenkins on Window Server](others/jenkins-ci-cd/install-jenkins-on-window-server.md)

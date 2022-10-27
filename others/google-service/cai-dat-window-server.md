@@ -13,6 +13,7 @@
 * Install 7zip
 * Install jenkins (options)
   * Install jdk 11
+  * Install git scm
 * Install nodejs 14 (options)
   * npm install --global yarn
   * npm install -g env-cmd
@@ -41,6 +42,9 @@
 
 * Follow install jenkins tutor
 * Open localhost:8080 for first setup
+* Enable proxy compatibility in Configure Security
+* Install plugins svn
+* Install plugins google chat
 *   Add site jenkins
 
     * Add site jenkins port 9090
@@ -62,3 +66,5 @@
         </system.webServer>
     </configuration>
     ```
+* Add project Test with pipeline test
+* Run test finish

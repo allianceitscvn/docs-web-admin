@@ -25,6 +25,7 @@
   * Install Dotnet (https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
     * Install dotnet SDK (options for build)
     * Install dotnet runtime
+    * Install nuget - copy file nuget.ext to dotnet folder
 * Add firewall inboud
   * Port 8080, 9090 for jenkins
   * Port 8888 for web test

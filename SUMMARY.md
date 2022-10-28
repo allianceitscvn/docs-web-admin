@@ -24,6 +24,7 @@
   * [Cell: json\_editor.js](components/mytablecell/cell-json\_editor.js.md)
   * [Cell: select2\_modal](components/mytablecell/cell-json\_editor.js-1.md)
   * [Cell: json\_editor\_value](components/mytablecell/cell-json\_editor\_value.md)
+  * [Cell: readonly\_array](components/mytablecell/cell-readonly\_array.md)
   * [Cell: readonly\_html](components/mytablecell/cell-readonly\_html.md)
   * [Cell: readonly\_date](<components/mytablecell/cell-textarea (1).md>)
   * [Cell: readonly\_datetime](components/mytablecell/cell-textarea-1.md)

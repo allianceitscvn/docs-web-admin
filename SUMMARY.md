@@ -148,6 +148,8 @@
 
 ## Logic
 
+* [Create Custom MyUI from Server](logic/create-custom-myui-from-server/README.md)
+  * [Sample v1](logic/create-custom-myui-from-server/sample-v1.md)
 * [Chart in table](logic/chart-in-table.md)
 * [HomeURL](logic/homeurl.md)
 * [Flow filter](logic/flow-filter.md)

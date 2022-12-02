@@ -181,6 +181,10 @@
 
 ## Others
 
+* [Google Chat](others/google-chat/README.md)
+  * [Send message Google Chat qua api](others/google-chat/send-message-google-chat-qua-api.md)
+  * [Card in Google Chat](others/google-chat/card-in-google-chat.md)
+  * [Send Message Goggle Chat qua webhook](others/google-chat/send-message-goggle-chat-qua-webhook.md)
 * [Sử dụng ResizeObserver](others/su-dung-resizeobserver.md)
 * [Google Service](others/google-service/README.md)
   * [Cài đặt window server](others/google-service/cai-dat-window-server.md)
@@ -189,7 +193,6 @@
   * [Install Jenkins on Window Server](others/jenkins-ci-cd/install-jenkins-on-window-server.md)
   * [Jenkins Gitlab](others/jenkins-ci-cd/jenkins-gitlab.md)
   * [Jenkins Pipeline](others/jenkins-ci-cd/jenkins-pipeline.md)
-* [Send Message Goggle Chat](others/send-message-goggle-chat.md)
 * [CSS Selectors Cheat Sheet](others/css-selectors-cheat-sheet.md)
 * [Login Social](others/login-social/README.md)
   * [Login Social: Google](others/login-social/login-social-google.md)

@@ -108,6 +108,8 @@
 
 ## Module
 
+* [Module: check\_idle](module/module-check\_idle/README.md)
+  * [Logic](module/module-check\_idle/logic.md)
 * [Module: reactga](module/module-reactga.md)
 * [Module: gtag](module/module-gtag.md)
 * [Module: v1\_page](module/module-v1\_page.md)
@@ -148,6 +150,7 @@
 
 ## Logic
 
+* [Flow Request Data in Page](logic/flow-request-data-in-page.md)
 * [Create Custom MyUI from Server](logic/create-custom-myui-from-server/README.md)
   * [Sample v1](logic/create-custom-myui-from-server/sample-v1.md)
 * [Chart in table](logic/chart-in-table.md)

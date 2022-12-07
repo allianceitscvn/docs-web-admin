@@ -109,6 +109,7 @@
 ## Module
 
 * [Module: check\_idle](module/module-check\_idle/README.md)
+  * [Các trường hợp](module/module-check\_idle/cac-truong-hop.md)
   * [Logic](module/module-check\_idle/logic.md)
 * [Module: reactga](module/module-reactga.md)
 * [Module: gtag](module/module-gtag.md)

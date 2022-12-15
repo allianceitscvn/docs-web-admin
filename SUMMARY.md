@@ -185,6 +185,7 @@
 
 ## Others
 
+* [Luồn dev mới](others/luon-dev-moi.md)
 * [Google Chat](others/google-chat/README.md)
   * [Send message Google Chat qua api](others/google-chat/send-message-google-chat-qua-api.md)
   * [Card in Google Chat](others/google-chat/card-in-google-chat.md)

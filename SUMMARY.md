@@ -186,9 +186,9 @@
 ## Others
 
 * [Xây dựng thư viện rời](others/xay-dung-thu-vien-roi/README.md)
-  * [Xuất bản](others/xay-dung-thu-vien-roi/xuat-ban.md)
   * [Cài đặt](others/xay-dung-thu-vien-roi/cai-dat.md)
   * [Cài thêm plugin](others/xay-dung-thu-vien-roi/cai-them-plugin.md)
+  * [Xuất bản](others/xay-dung-thu-vien-roi/xuat-ban.md)
 * [Luồn dev mới](others/luon-dev-moi.md)
 * [Google Chat](others/google-chat/README.md)
   * [Send message Google Chat qua api](others/google-chat/send-message-google-chat-qua-api.md)

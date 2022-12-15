@@ -20,5 +20,16 @@ User mới
 * Copy nội dung gửi cho htruong@allianceitsc.com
 * Admin add key vào github
 
+Tạo thư viện module mới
 
+* Theo docs: [https://www.npmjs.com/package/create-react-library](https://www.npmjs.com/package/create-react-library)
+  * npm install -g create-react-library
+  * npx create-react-library
+* Go to folder example
+  * npm install --save ../
+* Start library
+  * npm start
+* Start example
+  * cd example
+  * npm start
 

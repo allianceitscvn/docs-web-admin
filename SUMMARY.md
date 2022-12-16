@@ -185,6 +185,7 @@
 
 ## Others
 
+* [Thiết kế email template](others/thiet-ke-email-template.md)
 * [Xây dựng thư viện rời](others/xay-dung-thu-vien-roi/README.md)
   * [Cài đặt](others/xay-dung-thu-vien-roi/cai-dat.md)
   * [Cài thêm plugin](others/xay-dung-thu-vien-roi/cai-them-plugin.md)

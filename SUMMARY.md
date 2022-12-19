@@ -185,6 +185,7 @@
 
 ## Others
 
+* [Tạo mới tài liệu hướng dẫn sử dụng](others/tao-moi-tai-lieu-huong-dan-su-dung.md)
 * [Thiết kế email template](others/thiet-ke-email-template.md)
 * [Xây dựng thư viện rời](others/xay-dung-thu-vien-roi/README.md)
   * [Cài đặt](others/xay-dung-thu-vien-roi/cai-dat.md)

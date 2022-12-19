@@ -3,3 +3,6 @@
 * Tạo mới space trong gitbook từ tài khoản chính
 * Tạo github cho nó
 * Sync space với github
+  * Chọn đúng account, responsive
+  * Chế độ lần đầu sync qua github
+

@@ -4,5 +4,6 @@
 * Tạo github cho nó
 * Sync space với github
   * Chọn đúng account, responsive
+  * Tạo branch mới: gitbook
   * Chế độ lần đầu sync qua github
 

@@ -12,7 +12,7 @@ Kết quả:
 
 <figure><img src="../../.gitbook/assets/unnamed.png" alt=""><figcaption><p>Kết quả</p></figcaption></figure>
 
-#### Copy dòng được vàng rồi gửi cho người yêu cầu
+#### Copy dòng được khoanh vàng rồi gửi cho người yêu cầu
 
 #### Xem mã public sau khi đã tạo xong (Lệnh cat sẽ không chạy được với cmd, chỉ chạy với powershell)
 

@@ -1,6 +1,6 @@
 # Tạo local key ed25519
 
-#### Chạy lệnh từ terminal (Nhớ thay đổi your-email thành email của bạn)
+#### Chạy lệnh từ Powershell hoặc terminal trong Visual Code (Nhớ thay đổi your-email thành email của bạn)
 
 ```
 ssh-keygen -t ed25519 -C "your-email@allianceitsc.com"
@@ -14,7 +14,7 @@ Kết quả:
 
 #### Copy dòng được vàng rồi gửi cho người yêu cầu
 
-#### Xem lại dòng mã sau khi đã có sau này
+#### Xem mã public sau khi đã tạo xong (Lệnh cat sẽ không chạy được với cmd, chỉ chạy với powershell)
 
 ```
 cat ~/.ssh/id_ed25519.pub
@@ -23,3 +23,5 @@ cat ~/.ssh/id_ed25519.pub
 Kết quả:
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Kết quả hiển thị</p></figcaption></figure>
+
+#### Copy kết quả gửi cho người yêu cầu

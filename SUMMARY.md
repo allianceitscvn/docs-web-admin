@@ -44,7 +44,6 @@
   * [MyTableHeader: html](components/mytableheader/mytableheader-html.md)
   * [MyTableHeader: tooltip](components/mytableheader/mytableheader-tooltip.md)
 * [MyFormControl](components/myformcontrol.md)
-  * [Config ngang](components/myformcontrol/config-ngang.md)
   * [FormControl: text](components/myformcontrol/form-text.md)
   * [FormControl: textarea](components/myformcontrol/form-text-1.md)
   * [FormControl: checkbox](components/myformcontrol/form-text-2.md)
@@ -106,6 +105,8 @@
   * [cell.more.dateFormat](config/more-of-cell/cell.more.style-3.md)
   * [cell.more.showSelectedOnFirstRow](config/more-of-cell/cell.more.style-4.md)
   * [cell.more.apiCheckShowModal](config/more-of-cell/cell.more.apicheckshowmodal.md)
+* [Config FormControl](config/config-formcontrol/README.md)
+  * [Config wrap layout](config/config-formcontrol/config-wrap-layout.md)
 
 ## Module
 

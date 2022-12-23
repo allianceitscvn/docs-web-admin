@@ -44,6 +44,7 @@
   * [MyTableHeader: html](components/mytableheader/mytableheader-html.md)
   * [MyTableHeader: tooltip](components/mytableheader/mytableheader-tooltip.md)
 * [MyFormControl](components/myformcontrol.md)
+  * [Config ngang](components/myformcontrol/config-ngang.md)
   * [FormControl: text](components/myformcontrol/form-text.md)
   * [FormControl: textarea](components/myformcontrol/form-text-1.md)
   * [FormControl: checkbox](components/myformcontrol/form-text-2.md)

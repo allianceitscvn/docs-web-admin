@@ -24,3 +24,8 @@ Enable login google and setup google client ID in \_config.js
     "GoogleClientId": "GoogleClientId",
 }
 ```
+
+## Cần cấu hình ở API
+
+* Cấu hình ClientId, Secret key
+* Cấu hình link gì đó (lỗi đăng nhập có token rồi nhưng gọi các api khác thì bị 401)

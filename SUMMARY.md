@@ -188,6 +188,7 @@
 
 ## Others
 
+* [Tạo bot discord](others/tao-bot-discord.md)
 * [Tạo mới tài liệu hướng dẫn sử dụng](others/tao-moi-tai-lieu-huong-dan-su-dung.md)
 * [Thiết kế email template](others/thiet-ke-email-template.md)
 * [Xây dựng thư viện rời](others/xay-dung-thu-vien-roi/README.md)
@@ -198,6 +199,7 @@
   * [Kiểm tra xác thực ssh với github](others/luon-dev-moi/kiem-tra-xac-thuc-ssh-voi-github.md)
   * [Tạo local key rsa](others/luon-dev-moi/tao-local-key-rsa.md)
   * [Tạo local key ed25519](others/luon-dev-moi/tao-local-key-ed25519.md)
+* [Tìm hiểu ed25519](others/tim-hieu-ed25519.md)
 * [Google Chat](others/google-chat/README.md)
   * [Send message Google Chat qua api](others/google-chat/send-message-google-chat-qua-api.md)
   * [Card in Google Chat](others/google-chat/card-in-google-chat.md)

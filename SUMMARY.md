@@ -188,7 +188,10 @@
 
 ## Others
 
-* [Tạo bot discord](others/tao-bot-discord.md)
+* [Bot Discord](others/bot-discord/README.md)
+  * [Modal](others/bot-discord/modal.md)
+  * [Message](others/bot-discord/message.md)
+  * [Commands](others/bot-discord/commands.md)
 * [Tạo mới tài liệu hướng dẫn sử dụng](others/tao-moi-tai-lieu-huong-dan-su-dung.md)
 * [Thiết kế email template](others/thiet-ke-email-template.md)
 * [Xây dựng thư viện rời](others/xay-dung-thu-vien-roi/README.md)

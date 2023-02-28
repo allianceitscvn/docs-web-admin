@@ -1,4 +1,4 @@
-# Tạo bot discord
+# Bot Discord
 
 1. Tạo tài khoản discord
 2. Bật chế độ dev mode ở User Setting -> Advanced -> Developer Mode
